@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi fellow Homo Sapiens!
+
+Loius here, I like sport and would like to fly a spaceship one day.
